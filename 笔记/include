@@ -1,1 +1,2 @@
-fhh
+引用公共文件夹,css内容要用style标记
+location.href = '跳转页面'
