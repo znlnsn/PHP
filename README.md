@@ -2,9 +2,12 @@
 ## method
 ## 连接数据库
 ### mysqli_connect
+### mysqli_query()返回一个结果
 ## 表单验证
 ### 账号密码不能有空格
-trim()
+trim()去掉前后的空格
+mysqli_num_rows()函数返回结果集中行的数量
+strlen()判断字符串的长度,意思有内容
 # 会员登录  
 # 资料修改  
 # 管理员登录  
