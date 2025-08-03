@@ -1,5 +1,7 @@
 # 会员注册  
 ## method
+## 连接数据库
+### mysqli_connect
 ## 表单验证
 ### 账号密码不能有空格
 trim()
